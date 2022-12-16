@@ -16,8 +16,7 @@
 //  for(let x=0;x<3;x++){
 //     sum[x]=b[x]+c[x];
 //     // sum.push(b[x]+c[x]);
-   
-//  }
+   //}
 //  console.log(sum);//[ '59', '45', '87' ]
 
 // calculate factorial of a number
@@ -39,9 +38,9 @@
 // }
 
 // printing  all odd numbers upto  n natural number
-let n=9;
-for(let i=1;i<=9;i++){
-    if(i%2!=0){
-        console.log(i);
-    }
-}
+// let n=9;
+// for(let i=1;i<=9;i++){
+//     if(i%2!=0){
+//         console.log(i);
+//     }
+// }
