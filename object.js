@@ -1,10 +1,10 @@
-// const tutorialcopy10rs={
-//      name:"Rani Singh",
-// branch:"ECE",
-// rollno:"2021041157",
-// session:"2021-2025",
-// college:"MMMUT,GKp"
-// };
+const tutorialcopy10rs={
+     name:"Rani Singh",
+branch:"ECE",
+rollno:"2021041157",
+session:"2021-2025",
+college:"MMMUT,GKp"
+};
 // // whenever want to store data which is in the form of key value pairs,then
 // // object is used
 // console.log(tutorialcopy10rs);
@@ -38,4 +38,11 @@ const details={
 }
 console.log(details["dob"]);
 console.log(details.name);
+// object is a set of key value pairs
+// to get all keys of an object
+const objectkeys =Object.keys(details);
+console.log(objectkeys);
+tutorialcopy10rs.rollno="ec2021041157";
+console.log(tutorialcopy10rs);
 
+// mongo db always store data in form of object
