@@ -20,66 +20,66 @@
 // console.log(arr);
 const resultModels = [
     {
-      name: "Ashutosh Mishra 1",
+      name: "Rani Singh 1",
       branch: "ECE",
-      rollno: "2019041035",
-      session: "2019-2023",
+      rollno: "2021041157",
+      session: "2021-2025",
       "college name": "MMMUT,GKP",
       age: 10,
     },
     {
-      name: "Ashutosh Mishra 2",
+      name: "Rani Singh 2",
       branch: "ECE",
-      rollno: "2019041035",
-      session: "2019-2023",
+      rollno: "2021041157",
+      session: "2021-2025",
       "college name": "MMMUT,GKP",
       age: 10,
     },
     {
-      name: "Ashutosh Mishra 3",
+      name: "Rani Singh 3",
       branch: "ECE",
-      rollno: "2019041035",
-      session: "2019-2023",
+      rollno: "2021041157",
+      session: "2021-2025",
       "college name": "MMMUT,GKP",
       age: 10,
     },
     {
-      name: "Ashutosh Mishra 4",
+      name: "Rani Singh 4",
       branch: "ECE",
-      rollno: "2019041035",
-      session: "2019-2023",
+      rollno: "2021041157",
+      session: "2021-2025",
       "college name": "MMMUT,GKP",
       age: 10,
     },
     {
-      name: "Ashutosh Mishra 5",
+      name: "Rani Singh 5",
       branch: "ECE",
-      rollno: "2019041035",
-      session: "2019-2023",
+      rollno: "2021041157",
+      session: "2021-2025",
       "college name": "MMMUT,GKP",
       age: 10,
     },
     {
-      name: "Ashutosh Mishra 6",
+      name: "Rani Singh 6",
       branch: "ECE",
-      rollno: "2019041035",
-      session: "2019-2023",
+      rollno: "2021041157",
+      session: "2021-2025",
       "college name": "MMMUT,GKP",
       age: 10,
     },
     {
-      name: "Ashutosh Mishra 7",
+      name: "Rani Singh 7",
       branch: "ECE",
-      rollno: "2019041035",
-      session: "2019-2023",
+      rollno: "2021041157",
+      session: "2021-2025",
       "college name": "MMMUT,GKP",
       age: 10,
     },
     {
-      name: "Ashutosh Mishra 7",
+      name: "Rani Singh 8",
       branch: "ECE",
-      rollno: "2019041035",
-      session: "2019-2023",
+      rollno: "2021041157",
+      session: "2021-2025",
       "college name": "MMMUT,GKP",
       age: 10,
     },
@@ -94,9 +94,8 @@ const resultModels = [
 //   }
 //   console.log(resultModels);
 //   console.log(resultModels.age);
-if(a.name==="Ashutosh Mishra 5"){
+if(a.name==="Rani Singh 5"){
   a["college name"]="iit";
 }
   }
   console.log(resultModels);
-
