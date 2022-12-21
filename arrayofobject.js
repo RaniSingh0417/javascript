@@ -19,83 +19,86 @@
 // ]
 // console.log(arr);
 const resultModels = [
-    {
-      name: "Rani Singh 1",
-      branch: "ECE",
-      rollno: "2021041157",
-      session: "2021-2025",
-      "college name": "MMMUT,GKP",
-      age: 10,
-    },
-    {
-      name: "Rani Singh 2",
-      branch: "ECE",
-      rollno: "2021041157",
-      session: "2021-2025",
-      "college name": "MMMUT,GKP",
-      age: 10,
-    },
-    {
-      name: "Rani Singh 3",
-      branch: "ECE",
-      rollno: "2021041157",
-      session: "2021-2025",
-      "college name": "MMMUT,GKP",
-      age: 10,
-    },
-    {
-      name: "Rani Singh 4",
-      branch: "ECE",
-      rollno: "2021041157",
-      session: "2021-2025",
-      "college name": "MMMUT,GKP",
-      age: 10,
-    },
-    {
-      name: "Rani Singh 5",
-      branch: "ECE",
-      rollno: "2021041157",
-      session: "2021-2025",
-      "college name": "MMMUT,GKP",
-      age: 10,
-    },
-    {
-      name: "Rani Singh 6",
-      branch: "ECE",
-      rollno: "2021041157",
-      session: "2021-2025",
-      "college name": "MMMUT,GKP",
-      age: 10,
-    },
-    {
-      name: "Rani Singh 7",
-      branch: "ECE",
-      rollno: "2021041157",
-      session: "2021-2025",
-      "college name": "MMMUT,GKP",
-      age: 10,
-    },
-    {
-      name: "Rani Singh 8",
-      branch: "ECE",
-      rollno: "2021041157",
-      session: "2021-2025",
-      "college name": "MMMUT,GKP",
-      age: 10,
-    },
-  ];
+  {
+    name: "Rani Singh 1",
+    branch: "ECE",
+    rollno: "2021041157",
+    session: "2021-2025",
+    "college name": "MMMUT,GKP",
+    age: 10,
+  },
+  {
+    name: "Rani Singh 2",
+    branch: "ECE",
+    rollno: "2021041157",
+    session: "2021-2025",
+    "college name": "MMMUT,GKP",
+    age: 10,
+  },
+  {
+    name: "Rani Singh 3",
+    branch: "ECE",
+    rollno: "2021041157",
+    session: "2021-2025",
+    "college name": "MMMUT,GKP",
+    age: 10,
+  },
+  {
+    name: "Rani Singh 4",
+    branch: "ECE",
+    rollno: "2021041157",
+    session: "2021-2025",
+    "college name": "MMMUT,GKP",
+    age: 10,
+  },
+  {
+    name: "Rani Singh 5",
+    branch: "ECE",
+    rollno: "2021041157",
+    session: "2021-2025",
+    "college name": "MMMUT,GKP",
+    age: 10,
+  },
+  {
+    name: "Rani Singh 6",
+    branch: "ECE",
+    rollno: "2021041157",
+    session: "2021-2025",
+    "college name": "MMMUT,GKP",
+    age: 10,
+  },
+  {
+    name: "Rani Singh 7",
+    branch: "ECE",
+    rollno: "2021041157",
+    session: "2021-2025",
+    "college name": "MMMUT,GKP",
+    age: 10,
+  },
+  {
+    name: "Rani Singh 8",
+    branch: "ECE",
+    rollno: "2021041157",
+    session: "2021-2025",
+    "college name": "MMMUT,GKP",
+    age: 10,
+  },
+];
 //   console.log(resultModels[4].name);
-  for(let a of resultModels){
-    // a.age=50;
-    // console.log(a);
-//     if(a===resultModels[2]){
-// resultModels.rollno=1000;
-//     }
-//   }
-//   console.log(resultModels);
-//   console.log(resultModels.age);
-if(a.name==="Rani Singh 5"){
-  a["college name"]="iit";
-}
+for (let a of resultModels) {
+  // a.age=50;
+  // console.log(a);
+  //     if(a===resultModels[2]){
+  // resultModels.rollno=1000;
+  //     }
+  //   }
+  //   console.log(resultModels);
+  //   console.log(resultModels.age);
+  // if (a.name === "Rani Singh 5") {
+  //   a["college name"] = "iit";
+  // }
+  if (a.name === "Rani Singh 8") {
+    a["college name"] = "iit Bombay";
   }
-  console.log(resultModels);
+}
+console.log(resultModels);
