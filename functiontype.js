@@ -18,3 +18,5 @@ const returnfunction1 = () =>{
 };
 let resultofreturningfunc=returnfunction1();
 console.log(resultofreturningfunc);
+// returning statement doesn't executes the code 
+// after return
