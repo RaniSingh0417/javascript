@@ -8,6 +8,7 @@ console.log(currentdate);//this returns date in UTC format
 
 // const currtimezoneTime = new Date().toString();
 // console.log(currtimezoneTime);
+
 const currtimezoneDate = new Date().toDateString();
 console.log(currtimezoneDate);
 const currtimezoneTime = new Date().toTimeString();

@@ -20,13 +20,12 @@
 
 // let { name, age, school, email } = myObject; //this is same as myobject.name
 // console.log(name, school);
- 
-const myProfile={
-  name : "rani singh",
-  dob : "17-05-2004",
+
+const myProfile = {
+  name: "rani singh",
+  dob: "17-05-2004",
   age: 19,
-  College: "MMMUT"
+  College: "MMMUT",
 };
-let { name,College,age,dob}
-=myProfile;
-console.log(name,College,dob,age);
+let { name, College, age, dob } = myProfile;
+console.log(name, College, dob, age);
