@@ -5,8 +5,8 @@ console.log(combinedarray);
 // spread operator is mainly used in array to quickly
 // copy in array elements
 
-const secA=["aaditya","suraj","srishti","avantika","reetika"];
-const secB=["anjali","anisha","rani","prerna"];
-const secC=["anjali","anisha","rani","prerna"];
-const combinedstrength=[...secA,...secB,...secC];
+const secA = ["aaditya", "suraj", "srishti", "avantika", "reetika"];
+const secB = ["anjali", "anisha", "rani", "prerna"];
+const secC = ["anjali", "anisha", "rani", "prerna"];
+const combinedstrength = [...secA, ...secB, ...secC];
 console.log(combinedstrength);
