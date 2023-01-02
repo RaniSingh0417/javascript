@@ -38,3 +38,5 @@ const response = [
 //  console.log(response);
 console.log(response.shift());
 console.log(response);
+console.log(response.unshift("Singh"));
+console.log(response);

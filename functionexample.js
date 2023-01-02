@@ -60,3 +60,7 @@
 
   }
   console.log(func(3,4,"add"));
+  console.log(func(7,9,"sub"));
+  console.log(func(7,9,"mul"));
+  let y=func(7,9,"div");
+  console.log(Math.round(y));
